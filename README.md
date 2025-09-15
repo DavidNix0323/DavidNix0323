@@ -11,7 +11,7 @@ I thrive on explicit control, clean code, and strategic troubleshooting. Whether
 I'm currently building rhythm-mapped lottery simulations and mobile-only physics handlers, and I'm open to collaborating on projects that push boundaries while respecting clean architecture.
 
 * 🌍  I'm based in Granbury, TX
-* 🖥️  See my portfolio at [David Nix Portfolio](http://https://e-portfolio-main-omega.vercel.app/)
+* 🖥️  See my portfolio at [David Nix Portfolio](https://e-portfolio-main-omega.vercel.app/)
 * ✉️  You can contact me at [davidnix0323@yahoo.com](mailto:davidnix0323@yahoo.com)
 * 🧠  I'm currently learning Python and C++
 * 👥  I'm looking to collaborate on Interesting Projects
