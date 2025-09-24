@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is David Nix
 ==================================================================================================================================
 
-Frontend Software Engineer
+Software Engineer
 --------------------------
 
 Six months ago, I traded steel beams and crane controls for JavaScript and component trees. After years in the oilfield and construction industry — including time as a crane operator — I decided to pivot into frontend development after suffering a back injury. What started as curiosity quickly became obsession: I now architect modular, mobile-first UIs with scoped logic and physics-based interactions.
